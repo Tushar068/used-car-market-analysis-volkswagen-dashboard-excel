@@ -2,11 +2,11 @@
 A data-driven analysis of Volkswagen used car listings in Turkey (January–March 2023) built using Microsoft Excel with interactive dashboard visualizations.
 
 ## Overview
-This project analyzes Volkswagen used car listings in Turkey for Q1 2023 to uncover pricing patterns, demand concentration, transmission and fuel preferences, and city-wise market activity. The objective was to transform raw listing data into meaningful business insights using structured data cleaning, modeling, and visualization techniques.
+This project analyzes Volkswagen used car listings in Turkey for Q1 2023 to uncover pricing patterns, demand concentration, transmission and fuel preferences and city-wise market activity. The objective was to transform raw listing data into meaningful business insights using structured data cleaning, modeling, and visualization techniques.
 
 ## Problem Statement
 
-The used car market contains large volumes of unstructured listing data, making it difficult to identify pricing trends, high-demand models, regional hotspots, and buyer preferences.  
+The used car market contains large volumes of unstructured listing data, making it difficult to identify pricing trends, high-demand models, regional hotspots and buyer preferences.  
 
 This project aims to:
 - Analyze listing volume trends across months
