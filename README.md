@@ -59,7 +59,7 @@ This project aims to:
 
 Below is the interactive Excel dashboard developed for this analysis:
 
-![Volkswagen_Car_Market_Analysis_Dashboard](assets/dashboard.png)
+![Volkswagen_Car_Market_Analysis_Dashboard](assets/Volkswagen_Car_Market_Analysis_Dashboard.png)
 
 ### Charts Used:
 - Horizontal Bar Chart – Listings by Model  
